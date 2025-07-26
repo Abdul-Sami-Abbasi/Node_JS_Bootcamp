@@ -37,6 +37,6 @@ This bootcamp is designed to help you master the fundamentals of Node.js through
 ## 🏃 Getting Started
 
 ```bash
-git clone https://github.com/your-username/Node_JS_Bootcamp.git
+git clone https://github.com/Abdul-Sami-Abbasi/Node_JS_Bootcamp.git
 cd Node_JS_Bootcamp
 node ./01-Module_Wrapper/index.js
